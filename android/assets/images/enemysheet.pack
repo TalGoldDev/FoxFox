@@ -1,0 +1,19 @@
+
+enemysheet.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+enemystanding
+  rotate: false
+  xy: 1, 1
+  size: 276, 343
+  orig: 276, 343
+  offset: 0, 0
+  index: -1
+enemywalking
+  rotate: false
+  xy: 279, 1
+  size: 276, 343
+  orig: 276, 343
+  offset: 0, 0
+  index: -1

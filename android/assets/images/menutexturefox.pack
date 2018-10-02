@@ -1,0 +1,47 @@
+
+menutexturefox.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 170
+  size: 2048, 1536
+  orig: 2048, 1536
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1, 74
+  size: 354, 94
+  orig: 354, 94
+  offset: 0, 0
+  index: -1
+play-up
+  rotate: false
+  xy: 1, 1
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+options-up
+  rotate: false
+  xy: 357, 97
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+leaderboard
+  rotate: false
+  xy: 74, 8
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+twitter
+  rotate: false
+  xy: 430, 104
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1

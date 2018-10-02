@@ -1,0 +1,40 @@
+
+keys.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+firebutton
+  rotate: false
+  xy: 1, 1
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+settings
+  rotate: false
+  xy: 74, 1
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+jump
+  rotate: false
+  xy: 147, 8
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 215, 8
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 283, 8
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1

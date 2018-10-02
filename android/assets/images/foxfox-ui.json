@@ -1,0 +1,12 @@
+{
+ com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+   play: { up: play-up },
+     options: { up: options-up }
+      }, 
+      com.badlogic.gdx.scenes.scene2d.ui.Image: { 
+       background: { drawable: background },
+         logo: { drawable: logo },
+             leaderboard: { drawable: leaderboard }, 
+              twitter: { drawable: twitter }
+               }, 
+               } 
