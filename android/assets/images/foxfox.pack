@@ -1,0 +1,68 @@
+
+foxfox.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 261
+  size: 1000, 750
+  orig: 1000, 750
+  offset: 0, 0
+  index: -1
+dirtblock
+  rotate: false
+  xy: 1, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ground1
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ground2
+  rotate: false
+  xy: 131, 131
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ground3
+  rotate: false
+  xy: 131, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+waves
+  rotate: false
+  xy: 261, 160
+  size: 128, 99
+  orig: 128, 99
+  offset: 0, 0
+  index: -1
+foxstanding
+  rotate: false
+  xy: 261, 94
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 391, 227
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 261, 60
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
